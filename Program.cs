@@ -6,7 +6,17 @@ namespace EntityFramework1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            var movie = new Movie() { Titolo = "Harry Potter", Durata = 93, Genere = "Fantasy" };
+
+            // Esercizi.InsertMovie(movie);
+
+
+
+
+            Esercizi.DeleteMovie(11);
+
+            Esercizi.GetMovies();
         }
     }
 }
