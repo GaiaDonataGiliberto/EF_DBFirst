@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EntityFramework1
+namespace EF_DBFirst
 {
     class Program
     {

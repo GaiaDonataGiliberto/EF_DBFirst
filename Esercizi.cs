@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace EntityFramework1
+namespace EF_DBFirst
 {
     public class Esercizi
     {

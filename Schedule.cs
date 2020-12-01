@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace EntityFramework1
+namespace EF_DBFirst
 {
     public partial class Schedule
     {

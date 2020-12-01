@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 #nullable disable
 
-namespace EntityFramework1
+namespace EF_DBFirst
 {
     public partial class cinemaDBContext : DbContext
     {
